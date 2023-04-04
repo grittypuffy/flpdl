@@ -1,3 +1,3 @@
 # flpdl
 
-A Feynman lectures downloader
+A simple Feynman's Lectures downloader
